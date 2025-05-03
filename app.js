@@ -29,6 +29,7 @@ async function main(){
     await mongoose.connect(dbUrl);
 };
 
+
 main()
  .then(()=>{
     console.log("connected to db");
