@@ -1,8 +1,8 @@
- MERN-Stack Airbnb Clone Web App
+# MERN-Stack Airbnb Clone Web App
 
 A full-featured web application inspired by Airbnb, built using Node.js, Express, MongoDB, EJS, and additional tools like Cloudinary, Multer, Passport, and JOI for validations and authentication.
 
- Features
+ # Features
 
 - Listings and Reviews  
   Create, view, and manage listings. Add and delete reviews with full validation.
@@ -30,7 +30,7 @@ A full-featured web application inspired by Airbnb, built using Node.js, Express
 
 - MVC Structure  
   Refactored the project into Model-View-Controller architecture for scalability
- Tech Stack
+ # Tech Stack
 
 - Backend: Node.js, Express.js
 - Database: MongoDB
@@ -40,7 +40,7 @@ A full-featured web application inspired by Airbnb, built using Node.js, Express
 - File Storage: Multer + Cloudinary
 - Flash Messages: connect-flash
 
- Setup Instructions
+ # Setup Instructions
 
  Clone the repository
 
@@ -55,23 +55,23 @@ npm install
 
 mongod
 
-# Add .env file with:
+ Add .env file with:
 
-# CLOUDINARY\_CLOUD\_NAME=...
+ CLOUDINARY\_CLOUD\_NAME=...
 
-# CLOUDINARY\_API\_KEY=...
+ CLOUDINARY\_API\_KEY=...
 
-# CLOUDINARY\_API\_SECRET=...
+ CLOUDINARY\_API\_SECRET=...
 
-# SESSION\_SECRET=...
+ SESSION\_SECRET=...
 
-# Start the server
+ Start the server
 
 node app.js
 
 
 
-Folder Structure (MVC)
+# Folder Structure (MVC)
 
 .
 ├── models/          # Mongoose schemas for Listing & Review  
@@ -81,7 +81,7 @@ Folder Structure (MVC)
 ├── public/          # Static assets  
 └── app.js           # Main Express app
 
-Author
+# Author
 
 Afjan Jamadar  
 
