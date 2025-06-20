@@ -38,7 +38,15 @@ A full-featured web application inspired by Airbnb, built using **Node.js**, **E
 
 ## 🖼️ Screenshots
 
-![Screenshot 2025-06-20 114335](https://github.com/user-attachments/assets/2677a8cf-9d03-40be-81c3-d74140c61282)
+![Screenshot 2025-06-20 114125](https://github.com/user-attachments/assets/3e418ef6-96aa-4ed0-a9f0-b4c897131552)
+![Screenshot 2025-06-20 114204](https://github.com/user-attachments/assets/971fdb1f-b3a9-46d0-a662-8f2f864b9f56)
+![Screenshot 2025-06-20 114229](https://github.com/user-attachments/assets/e127375a-b7ba-41e3-92fd-877ec3f1bc3b)
+![Screenshot 2025-06-20 114250](https://github.com/user-attachments/assets/ae62b842-a5de-4d2c-a306-f995eaee0749)
+![Screenshot 2025-06-20 114335](https://github.com/user-attachments/assets/7ae4eae4-0c83-4e65-8c67-435011ee0525)
+
+
+
+
 
 
 ## ⚙️ Tech Stack
