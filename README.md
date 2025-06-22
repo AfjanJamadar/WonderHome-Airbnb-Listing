@@ -65,7 +65,7 @@ A full-featured web application inspired by Airbnb, built using **Node.js**, **E
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/airbnb-clone.git
+git clone
 cd airbnb-clone
 
 # Install dependencies
